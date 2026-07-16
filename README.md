@@ -25,7 +25,7 @@ The objective of Day 2 was to learn the fundamentals of Python programming, incl
 
 ### 1. Variables and Data Types
 
-```python
+
 name = "Lohitha"
 age = 20
 cgpa = 8.7
@@ -33,13 +33,10 @@ cgpa = 8.7
 print(name)
 print(age)
 print(cgpa)
-```
 
----
 
 ### 2. Arithmetic Operators
 
-```python
 a = 15
 b = 5
 
@@ -47,54 +44,41 @@ print("Addition:", a+b)
 print("Subtraction:", a-b)
 print("Multiplication:", a*b)
 print("Division:", a/b)
-```
 
----
 
 ### 3. Even or Odd
 
-```python
 num = int(input("Enter a number: "))
 
 if num % 2 == 0:
     print("Even")
 else:
     print("Odd")
-```
-
----
 
 ### 4. For Loop
 
-```python
 for i in range(1,6):
     print(i)
-```
 
----
 
 ### 5. While Loop
 
-```python
+
 count = 1
 
 while count <= 5:
     print(count)
     count += 1
-```
-
----
 
 ### 6. Function
 
-```python
+
+
 def square(num):
     return num * num
 
 print(square(6))
-```
 
----
 
 ## 📂 Files Included
 
