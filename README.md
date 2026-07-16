@@ -129,49 +129,4 @@ Successfully developed basic Python programming skills by implementing fundament
 
 **Data Science Internship**
 
-**Day 2 – Python Basics**
 
-variables.py
-
-name = "Lohitha"
-age = 20
-cgpa = 8.7
-
-print("Name:", name)
-print("Age:", age)
-print("CGPA:", cgpa)
-
-operators.py
-
-a = 20
-b = 10
-
-print("Addition:", a+b)
-print("Subtraction:", a-b)
-print("Multiplication:", a*b)
-print("Division:", a/b)
-print("Modulus:", a%b)
-
-condition.py
-
-num = int(input("Enter a number: "))
-
-if num % 2 == 0:
-    print("Even Number")
-else:
-    print("Odd Number")
-    
-  loops.py
-    
-print("For Loop")
-
-for i in range(1,6):
-    print(i)
-
-print("\nWhile Loop")
-
-count = 1
-
-while count <= 5:
-    print(count)
-    count += 1
